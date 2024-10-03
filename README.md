@@ -5,3 +5,10 @@ Install Foundry
 ```
 curl -L https://foundry.paradigm.xyz | bash
 ```
+Then restart your terminal
+```bash
+source $HOME/.bashrc
+```
+```bash
+foundryup
+```
