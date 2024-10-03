@@ -3,7 +3,7 @@ Tutorial how to deploying smart contract on fhenix
 - Join [discord server](https://discord.gg/fhenix-io)
 - Go to `#bot-commands` channel
 - Then type `/quests`
-- Let's complete (4) and (5) tasks
+- Let's complete (4) and (6) tasks
 
 ## Faucet & Bridge
 - Request [faucet here](https://get-helium.fhenix.zone/) 
